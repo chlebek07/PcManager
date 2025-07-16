@@ -25,13 +25,6 @@ Requirements
 - Windows 7 or later.
 - .NET Framework installed (typically already available on most systems).
 
-Build Instructions
-
-1. Open the project in Visual Studio.
-2. Set build configuration to `Release`.
-3. Build the solution (`Build > Build Solution`).
-4. Navigate to `bin/Release` to locate the executable.
-
 Disclaimer
 
 This project is for educational and testing purposes only. The author is not responsible for any misuse or damage caused by this software.
