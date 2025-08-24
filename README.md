@@ -9,6 +9,10 @@ Features
 - "fri RAM" option creates dummy folders on the desktop to simulate memory allocation.
 - "fri ddos!!" button launches `cmd.exe` processes in a loop.
 - "fri rdzenie w proczesososze" terminates the `explorer.exe` process, simulating a system shell crash.
+- "DODAJ RTX 9090!" – randomly changes the system wallpaper.
+- "Zooptymalizuj kąkuter!" – rapidly changes the background color, simulating a “system fix.”
+- "Fri CPU Overclock!" – simulates CPU overclocking by showing multiple message boxes with random CPU percentages.
+- "Ładniejsze czcionki" – makes the application window move randomly across the desktop and randomly changes resolution and fonts in the title for a chaotic visual effect.
 
 Warning
 
